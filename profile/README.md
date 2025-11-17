@@ -18,7 +18,7 @@ https://taksa-factory.github.io
 
 * Mission: Empowering Manufacturing. From India, For the World.
 
-* Partners: ARTPARK @ IISc, Department of Science & Technology, Govt. of Karnataka.
+* Supported by: ARTPARK @ IISc, Department of Science & Technology, Govt. of Karnataka.
 
 To learn more or to get involved, please contact us:
 taksa@artpark.in
