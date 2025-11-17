@@ -1,24 +1,38 @@
-# Takşa - The Open Source Factory OS
+# Welcome to the Takşa Factory OS Organization
 
-This repository hosts the official website for Takşa, an open-source factory operating system from the labs of ARTPARK @ IISc.
+This is the central GitHub home for Takşa, an open-source factory operating system from the labs of ARTPARK @ IISc.
 
-Our mission is to empower manufacturing MSMEs with AI-powered insights and Industry 5.0 capabilities.
+Our mission is to empower manufacturing MSMEs with AI-powered insights and Industry 5.0 capabilities. We are building the tools to help democratize access to next-generation technology.
 
-## View Our Live Website
+## About Our Mission
 
-The code in our taksa-factory.github.io repository is automatically deployed as a live website by GitHub Pages.
+* What We Do: We are building an open-source, modular, and scalable Factory OS.
 
-You can visit the official website here:
+* Why: To help manufacturers (especially MSMEs) digitize their processes, gain AI-powered insights, and boost productivity.
+
+* Who We Are: A community-driven project supported by ARTPARK @ IISc.
+
+## Our Repositories
+
+This organization houses all projects related to the Takşa OS:
+
+taksa-factory.github.io: The code for our official project website.
+
+(More repositories coming soon!): We will be adding our source code, documentation, and community tools here.
+
+## Get Involved
+
+We are actively seeking visionary partners and contributors.
+
+* For Developers (FOSS Contributors): Check our repositories, join the discussion, and help us build.
+
+* For Factories & MSMEs: We are looking for early adopters. Contact us to learn more.
+
+* For System Integrators: Partner with us to deploy Takşa OS.
+
+### Visit Our Live Website:
 
 https://taksa-factory.github.io
-
-## About The Project
-
-* What: The Open Source Factory OS
-
-* Mission: Empowering Manufacturing. From India, For the World.
-
-* Supported by: ARTPARK @ IISc, Department of Science & Technology, Govt. of Karnataka.
 
 To learn more or to get involved, please contact us:
 taksa@artpark.in
